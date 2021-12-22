@@ -104,7 +104,7 @@ body.multiple-scenes.mobile #titleBar {
   height: 40px;
   padding: 5px;
   background-color: rgb(229,108,28);
-  background-color: rgba(229,108,281,0.8);
+  background-color: rgba(229,108,28,0.8);
 }
 
 .mobile #fullscreenToggle {
@@ -153,8 +153,8 @@ body.fullscreen-enabled #fullscreenToggle {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(23,48,104);
+  background-color: rgba(23,48,104,0.8);
 }
 
 .mobile #autorotateToggle {
@@ -273,8 +273,8 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 
 #sceneList .scenes {
   width: 100%;
-  background-color: rgb(58,68,84);
-  background-color: rgba(58,68,84,0.8);
+  background-color: rgb(23,48,104);
+  background-color: rgba(23,48,104,0.8);
 }
 
 .mobile #sceneList {
