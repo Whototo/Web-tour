@@ -103,8 +103,8 @@ body.multiple-scenes.mobile #titleBar {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: rgb(229,108,28);
-  background-color: rgba(229,108,28,0.8);
+  background-color: rgb(23,48,104);
+  background-color: rgba(23,48,104,0.8);
 }
 
 .mobile #fullscreenToggle {
@@ -376,8 +376,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
   border-radius: 5px;
 
-  background-color: rgb(58,68,84);
-  background-color: rgba(58,68,84,0.8);
+  background-color: rgb(229,108,28);
+  background-color: rgba(229,108,28,0.8);
 
   color: #fff;
 
@@ -786,8 +786,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(23,48,104);
+  background-color: rgba(23,48,104,0.8);
 }
 
 body.view-control-buttons .viewControlButton {
